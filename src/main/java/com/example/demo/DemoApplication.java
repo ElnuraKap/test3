@@ -5,6 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 @SpringBootApplication
 public class DemoApplication {
@@ -26,7 +27,7 @@ public class DemoApplication {
 
         int i = 9;
         for(int j = 0; j < i; j++) {
-            System.out.println("Dilbara's code");
+            System.out.println("Beksultan now understand us...");
         }
 
 
