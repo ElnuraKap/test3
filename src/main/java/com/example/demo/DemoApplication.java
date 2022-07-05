@@ -12,15 +12,16 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
+        System.out.println("Hello java 5");
+        
+        System.out.println("nargiza");
+        
+        System.out.println("mkdslfklds");
+        
         System.out.println("Nasgiza's conflict");
+        
         System.out.println("dewklj");
 
-
-        System.out.println("nargiza");
-        System.out.println("mkdslfklds");
-
-
-        System.out.println("Hello java 5");
 
 
         int i = 9;
@@ -33,10 +34,14 @@ public class DemoApplication {
         System.out.println("mukhammed");
 
         ArrayList<Programmer> arrayList = new ArrayList<>();
+
       arrayList.add(new Programmer());
 
-        System.out.println("DILBARA");
+      arrayList.add(new Programmer("Muhammed",25));
 
+
+        System.out.println("DILBARA");
+        System.out.println("Hello,how are you?");
     }
 
 
