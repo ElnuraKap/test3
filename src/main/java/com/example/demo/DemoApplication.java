@@ -29,16 +29,19 @@ public class DemoApplication {
             System.out.println("Dilbara's code");
         }
 
+        System.out.println("hello ,how are you?");
 
         System.out.println("mukhammed");
 
         ArrayList<Programmer> arrayList = new ArrayList<>();
+
+      arrayList.add(new Programmer());
+
       arrayList.add(new Programmer("Muhammed",25));
 
+
         System.out.println("DILBARA");
-
->>>>>>> 9c97574d013d0751ca0c0594376f5e04abaf12d3
-
+        System.out.println("Hello,how are you?");
     }
 
 
