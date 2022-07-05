@@ -5,6 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 
 @SpringBootApplication
 public class DemoApplication {
@@ -37,7 +39,22 @@ public class DemoApplication {
 
         System.out.println("DILBARA");
 
-        System.out.println("Java 5- Muhammed , Dilbara, Nargiza , Elnura, Natgiza");
+        System.out.println("Java 5- Muhammed , Dilbara, Nargiza , Elnura, Natgiza, Kuba , Ulan");
+
+        List<Programmer> programmerList = new LinkedList<>(List.of(
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer(),
+                new Programmer()
+        ));
 
 
 
