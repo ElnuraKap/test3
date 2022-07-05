@@ -11,7 +11,7 @@ public class DemoApplication {
 
         System.out.println("nargiza");
         System.out.println("mkdslfkldsjf");
-        System.out.println("Hello java 5");
+
     }
 
 }
