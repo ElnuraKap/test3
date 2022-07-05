@@ -59,6 +59,7 @@ public class DemoApplication {
 
 
         System.out.println("Dilbara goodBye to the America");
+        System.out.println("Dilbara goodBye to the America");
     }
 
 
