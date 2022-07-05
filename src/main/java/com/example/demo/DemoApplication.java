@@ -42,7 +42,7 @@ public class DemoApplication {
 
         System.out.println("DILBARA");
         System.out.println("Hello,how are you?");
-    }
-
+        System.out.println("My name is Elnura");
+}
 
 }
