@@ -12,6 +12,6 @@ public class DemoApplication {
 
         System.out.println("Hello java 5");
         Programmer muhammed = new Programmer("Muhammed", 25);
-    }
+        System.out.println(muhammed);}
 
 }

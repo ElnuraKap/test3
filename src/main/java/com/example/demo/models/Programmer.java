@@ -17,4 +17,12 @@ public class Programmer {
         this.name = name;
         this.age = age;
     }
+
+    @Override
+    public String toString() {
+        return "Programmer{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
 }
