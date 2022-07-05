@@ -13,6 +13,11 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
+
+        ArrayList<Integer> arrayList1=new ArrayList();
+        arrayList1.add(1);
+
+
         System.out.println("Hello java 5");
         
         System.out.println("nargiza");
@@ -30,17 +35,27 @@ public class DemoApplication {
             System.out.println("Beksultan now understand us...");
         }
 
+        System.out.println("hello ,how are you?");
 
         System.out.println("mukhammed");
 
+
         ArrayList<Programmer> arrayList = new ArrayList<>();
+      arrayList.add(new Programmer());
+
+      arrayList.add(new Programmer());
+
+
+
+
+
       arrayList.add(new Programmer("Muhammed",25));
 
+
+
         System.out.println("DILBARA");
-
-
-
-    }
-
+        System.out.println("Hello,how are you?");
+        System.out.println("My name is Elnura");
+}
 
 }
