@@ -11,6 +11,7 @@ public class DemoApplication {
 
         System.out.println("nargiza");
         System.out.println("mkdslfkldsjf");
+
         System.out.println("Hello java 5");
 
 
@@ -18,11 +19,6 @@ public class DemoApplication {
         for(int j = 0; j < i; j++) {
             System.out.println("Dilbara's code");
         }
-
-
-
-
-
 
 
 
