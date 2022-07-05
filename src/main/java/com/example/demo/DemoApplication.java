@@ -12,6 +12,10 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
+        System.out.println("Nasgiza's conflict");
+        System.out.println("dewklj");
+
+
         System.out.println("nargiza");
         System.out.println("mkdslfklds");
 
@@ -24,10 +28,17 @@ public class DemoApplication {
             System.out.println("Dilbara's code");
         }
 
+
         System.out.println("mukhammed");
 
+<<<<<<< HEAD
         ArrayList<Programmer> arrayList = new ArrayList<>();
       arrayList.add(new Programmer());
+=======
+
+        System.out.println("DILBARA");
+
+>>>>>>> 9c97574d013d0751ca0c0594376f5e04abaf12d3
 
     }
 
