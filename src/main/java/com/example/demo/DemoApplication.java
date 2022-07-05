@@ -60,6 +60,7 @@ public class DemoApplication {
 
         System.out.println("Dilbara goodBye to the America");
         System.out.println("Dilbara goodBye to the America");
+        arrayList.add(new Programmer("Ulan",27));
     }
 
 
