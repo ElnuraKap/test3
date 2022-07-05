@@ -39,7 +39,6 @@ public class DemoApplication {
         ArrayList<Programmer> arrayList = new ArrayList<>();
       arrayList.add(new Programmer());
 
-
         System.out.println("DILBARA");
 
 
