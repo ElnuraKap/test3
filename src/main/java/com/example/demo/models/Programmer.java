@@ -10,6 +10,8 @@ public class Programmer {
 
     private Integer age;
 
+    private String names;
+
     public Programmer() {
     }
 
@@ -25,4 +27,5 @@ public class Programmer {
                 ", age=" + age +
                 '}';
     }
+
 }
