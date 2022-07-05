@@ -4,6 +4,8 @@ import com.example.demo.models.Programmer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import java.util.ArrayList;
+
 @SpringBootApplication
 public class DemoApplication {
 
@@ -24,8 +26,8 @@ public class DemoApplication {
 
         System.out.println("mukhammed");
 
-
-
+        ArrayList<Programmer> arrayList = new ArrayList<>();
+      arrayList.add(new Programmer());
 
     }
 
