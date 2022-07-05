@@ -9,7 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
-        System.out.println("kfldskf");
+        System.out.println("nargiza");
         System.out.println("Hello java 5");
     }
 
