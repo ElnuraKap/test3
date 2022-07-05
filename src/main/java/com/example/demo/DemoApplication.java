@@ -10,6 +10,10 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
 
+        System.out.println("Nasgiza's conflict");
+        System.out.println("dewklj");
+
+
         System.out.println("nargiza");
         System.out.println("mkdslfklds");
 
@@ -21,6 +25,7 @@ public class DemoApplication {
         for(int j = 0; j < i; j++) {
             System.out.println("Dilbara's code");
         }
+
 
         System.out.println("mukhammed");
 
