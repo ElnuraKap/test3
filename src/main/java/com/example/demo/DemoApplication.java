@@ -14,6 +14,7 @@ public class DemoApplication {
 
 
         ArrayList<Integer> arrayList1=new ArrayList();
+        arrayList1.add(1);
 
 
         System.out.println("Hello java 5");
@@ -33,6 +34,7 @@ public class DemoApplication {
             System.out.println("Dilbara's code");
         }
 
+        System.out.println("hello ,how are you?");
 
         System.out.println("mukhammed");
 
@@ -40,10 +42,14 @@ public class DemoApplication {
         ArrayList<Programmer> arrayList = new ArrayList<>();
       arrayList.add(new Programmer());
 
+      arrayList.add(new Programmer());
+
+
+      arrayList.add(new Programmer("Muhammed",25));
+
+
         System.out.println("DILBARA");
-
-
-
+        System.out.println("Hello,how are you?");
     }
 
 
