@@ -15,6 +15,7 @@ public class DemoApplication {
 
         ArrayList<Integer> arrayList1=new ArrayList();
 
+
         System.out.println("Hello java 5");
         
         System.out.println("nargiza");
